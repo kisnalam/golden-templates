@@ -5,7 +5,7 @@ metadata:
   title: Golden Path – Flask Service
   description: Scaffold a standardized Flask microservice with Docker, metrics, and CI/CD.
 spec:
-  owner: development
+  owner: user:guest
   type: service
 
   parameters:
